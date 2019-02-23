@@ -26,7 +26,7 @@ namespace Mathematical_Formulas.Tests
         [TestMethod()]
         public void Heron2Test()
         {
-            Assert.AreEqual(, Program.Heron2(1, 2, 3);
+            Assert.AreEqual(0, Program.Heron2(1, 2, 3);
         }
     }
 }
